@@ -1,9 +1,9 @@
 # Krylov Subspace Method for Matrix Exponentials in the Acoustic Parabolic Wave Equation
 
 ### Admin Information
-18.335 Final Project
-Author: William R. Harris
-Date: 8 May 2025
+18.335 Final Project  
+Author: William R. Harris  
+Date: 8 May 2025  
 
 ### Summary of package
 The enclosed package contains the code used to generate figures and perform analysis
